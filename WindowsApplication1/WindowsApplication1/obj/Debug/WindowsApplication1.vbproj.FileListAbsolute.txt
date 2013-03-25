@@ -7,3 +7,6 @@ E:\tmp\aaa\TestGit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsAppl
 E:\tmp\aaa\TestGit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 E:\tmp\aaa\TestGit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 E:\tmp\aaa\TestGit\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\tmp\aaa\TestCloned\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\tmp\aaa\TestCloned\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\tmp\aaa\TestCloned\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
