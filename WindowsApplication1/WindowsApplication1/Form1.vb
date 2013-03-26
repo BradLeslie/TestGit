@@ -16,4 +16,18 @@
         'Did this in Branch 1
         MsgBox("Bug 1")
     End Sub
+
+    Private Sub mastet(ByVal somevar As Integer)
+        Dim i As Integer
+        Dim tmpString As String
+
+
+        i = 10
+        tmpString = "Done in Master"
+
+        If i = 10 Then
+            tmpString = "hmmm I = 10"
+        End If
+
+    End Sub
 End Class
