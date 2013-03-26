@@ -20,7 +20,7 @@
     Private Sub mastet(ByVal somevar As Integer)
         Dim i As Integer
         Dim tmpString As String
-
+        Dim Branch4 As String
 
         i = 10
         tmpString = "Done in Master"
