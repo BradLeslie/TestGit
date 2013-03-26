@@ -21,6 +21,7 @@
         Dim i As Integer
         Dim tmpString As String
         Dim Branch4 As String
+        Dim a As Integer
 
         i = 10
         tmpString = "Done in Master"
