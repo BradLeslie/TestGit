@@ -30,5 +30,7 @@
             tmpString = "hmmm I = 10"
         End If
 
+        Dim w As Integer
+
     End Sub
 End Class
