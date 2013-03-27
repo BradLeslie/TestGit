@@ -42,5 +42,6 @@
 
     Private Sub Branch50()
         'going to push without doing a commit
+        'After doing the first commit and committing again before I push both commits
     End Sub
 End Class
