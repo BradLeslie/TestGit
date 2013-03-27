@@ -36,6 +36,10 @@
 
     End Sub
 
+    Private Sub Branch62()
+        'First line and commit then a push
+    End Sub
+
     Private Sub Bug33()
 
     End Sub
