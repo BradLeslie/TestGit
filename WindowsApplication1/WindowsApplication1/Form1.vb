@@ -35,4 +35,8 @@
         Dim w As Integer
 
     End Sub
+
+    Private Sub Bug33()
+
+    End Sub
 End Class
