@@ -48,4 +48,10 @@
         'going to push without doing a commit
         'After doing the first commit and committing again before I push both commits
     End Sub
+
+    Private Sub Branch60()
+        'First Change with  commit
+        'Sencod change with Commit
+
+    End Sub
 End Class
