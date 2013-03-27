@@ -19,6 +19,10 @@
         MsgBox("Bug 1")
     End Sub
 
+    Private Sub Branch61()
+        'First and only commit
+    End Sub
+
     Private Sub mastet(ByVal somevar As Integer)
         Dim i As Integer
         Dim tmpString As String
