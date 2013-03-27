@@ -39,4 +39,8 @@
     Private Sub Bug33()
 
     End Sub
+
+    Private Sub Branch50()
+        'going to push without doing a commit
+    End Sub
 End Class
