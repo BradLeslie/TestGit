@@ -38,6 +38,7 @@
 
     Private Sub Branch62()
         'First line and commit then a push
+        'Second link and a commit an push to sister
     End Sub
 
     Private Sub Bug33()
