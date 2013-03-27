@@ -19,6 +19,10 @@
         MsgBox("Bug 1")
     End Sub
 
+    Private Sub Branch61()
+        'First and only commit
+    End Sub
+
     Private Sub mastet(ByVal somevar As Integer)
         Dim i As Integer
         Dim tmpString As String
@@ -48,5 +52,11 @@
     Private Sub Branch50()
         'going to push without doing a commit
         'After doing the first commit and committing again before I push both commits
+    End Sub
+
+    Private Sub Branch60()
+        'First Change with  commit
+        'Sencod change with Commit
+
     End Sub
 End Class
